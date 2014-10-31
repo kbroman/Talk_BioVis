@@ -4,6 +4,8 @@ These are slides for a talk that I gave at <a
 href="http://biovis.net/year/2014/about">BioVis</a>, the 4th Symposium
 on Biological Data Visualization, in Boston, July 11-12, 2014.
 
+See them in action [here](https://www.biostat.wisc.edu/~kbroman/presentations/BioVis/).
+
 ---
 
 To the extent possible under law,
